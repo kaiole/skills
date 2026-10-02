@@ -59,17 +59,20 @@ Use the map to choose edits. Keep it internal unless the user asks for it or a s
 ## 3. Select and order the content
 
 - Prioritize relevance, specificity, ownership, results, and evidence of the required level. A specific older project may be more relevant than a recent unrelated task.
+- Judge evidence by relevance and useful contribution, not technical complexity. A clearly described shipped capability, integration, test suite, or release process can be strong evidence. Do not require every project or bullet to explain its hardest engineering problem.
 - Reorder bullets within entries and choose projects by relevance. Keep employment chronology, employers, official titles, and dates accurate and understandable.
 - Put the strongest relevant evidence early. Adjust section order only when it materially improves the case, while retaining the existing template.
 - Compress weaker or repetitive material before cutting distinctive evidence. Preserve useful transferable work rather than deleting everything outside C++.
 - For early-career candidates, use projects and internships to demonstrate ability. For experienced candidates, emphasize professional scope and ownership. Do not pad either with generic claims.
 - Keep a summary only when it adds useful positioning, such as explaining a specialization or transition. Do not add a generic professional profile.
 
-## 4. Rewrite with technical precision
+## 4. Make the accomplishment understandable
+
+Make the accomplishment understandable without specialist knowledge. Include technical specifics where they establish a relevant qualification. A non-specialist recruiter should understand what the user built or changed, their contribution, and its purpose or outcome on the first reading, even if they cannot evaluate the implementation.
 
 Use a precise action, the system or problem, useful technical context, and a supported outcome or scope. Vary the order to lead with the strongest relevant fact. Do not force every bullet into the same formula.
 
-Write for both audiences. Explain what the system does in plain language while retaining the details that prove important qualifications. Name relevant languages, tools, platforms, and constraints in context. A skills list helps discovery but does not replace evidence of use.
+Collect technical detail to uncover strong evidence, then select what belongs on the resume. Asking about implementation does not mean publishing all of it. Avoid turning bullets into design reviews. Keep relevant languages, tools, platforms, and constraints in understandable context; do not remove them merely because they are technical. A skills list helps discovery but does not replace evidence of use.
 
 - Start bullets with precise action verbs. Use active voice, past tense for completed work, and present tense for ongoing work. Prefer one compact sentence, usually one or two rendered lines. Do not erase meaning to hit a rigid word count.
 - Split distinct accomplishments rather than cramming them together. Respect the user's spelling and formatting preferences.
@@ -91,7 +94,7 @@ Do not copy accomplishments or numbers from examples. Do not insert placeholder 
 
 Review the revision in two passes:
 
-1. **Quick scan:** Can the reader identify the relevant specialization, level, and strongest reasons to interview without digging? Are these backed by visible examples rather than a list of claims?
+1. **Quick scan:** Can a non-specialist recruiter understand the accomplishment, the user's contribution, and its relevance on the first reading? Are the specialization, level, and strongest reasons to interview backed by visible examples without requiring the reader to decode implementation jargon?
 2. **Technical review:** Can every claim be traced to supplied evidence and defended in an interview? Are technical distinctions, ownership, and measurement context accurate? Did tailoring remove something important or add repetition?
 
 For a bullet-only request, return one recommended, ready-to-paste bullet or a concise set for multiple accomplishments. Add a short note only when an uncertainty or limitation matters. Keep questions and explanations in plain language too.
