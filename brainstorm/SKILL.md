@@ -1,6 +1,6 @@
 ---
 name: brainstorm
-description: Collaborative brainstorming for getting rough ideas out, examining them, and polishing them. Use when the user wants a sounding board or invokes /skill:brainstorm.
+description: Collaborative brainstorming for getting rough ideas out, examining them, and polishing them. Use when the user wants a sounding board.
 ---
 
 # Brainstorm
